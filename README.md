@@ -9,8 +9,8 @@
 
 📗 ● Version: v1.0
 
-📒 ● Magisk module.
+📒 ● Replaces animation with Project Elexir animation.
 
-📕 ● Replaces animation with Project Elexir animation.
+📕 ● 4PDA: https://4pda.to/forum/index.php?showtopic=915158&st=1120#entry120472202
 
 ---
