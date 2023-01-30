@@ -1,5 +1,7 @@
 # ProjectElexirBootanimation
 
+## Installation is at your own risk!!!
+
 ## ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ Information 
 ---
 
