@@ -11,6 +11,6 @@
 
 📒 ● Replaces animation with Project Elexir animation.
 
-📕 ● 4PDA: https://4pda.to/forum/index.php?showtopic=915158&st=1120#entry120472202
+📕 ● 4PDA: comming soon...
 
 ---
